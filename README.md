@@ -11,3 +11,8 @@ Learning finite element method, including:
 A 1D Element is ....
 
 
+## Further concepts to consider
+- XFEM - extended finite element method
+- non-linear FEM
+- Shell elements
+- 
