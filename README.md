@@ -13,6 +13,6 @@ A 1D Element is ....
 
 ## Further concepts to consider
 - XFEM - extended finite element method
-- non-linear FEM
+- non-linear FEM (dynamic relaxation)
 - Shell elements
 - 
